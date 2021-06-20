@@ -1,0 +1,1 @@
+docker run --rm --name kind-pi -p 30303:8001 -p 3000:3000 -v /var/run/docker.sock:/var/run/docker.sock -it kind-pi /bin/bash
