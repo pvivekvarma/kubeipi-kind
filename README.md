@@ -1,2 +1,2 @@
-# kubeipy-kind
-Setup Kubernetes Cluster On Raspberry Pi 
+# kubeipi-kind
+Setup Kubernetes Cluster On Raspberry Pi using Kubernetes Kind
